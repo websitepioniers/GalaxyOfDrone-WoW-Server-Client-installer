@@ -1,5 +1,5 @@
-WoW Server Installer 🎮
-This repository provides an easy-to-use installer for a World of Warcraft 3.3.5a private server. The installer automatically downloads, extracts, and sets up the game client so you can start playing without any manual configuration.
+# 1-Click WoW Installer build for Galaxyofdrone.com
+This repository provides an easy-to-use installer for a World of Warcraft 3.3.5a (and other clients in extracted in ZIP) private server. The installer automatically downloads, extracts, and sets up the game client so you can start playing without any manual configuration.
 
 Features ✨
 ✅ Automatic Download – Retrieves the full WoW 3.3.5a client from a reliable source.
@@ -11,7 +11,8 @@ Features ✨
 Installation 🛠️
 Download the installer from this repository.
 
-Run the installer (WoWInstaller.exe).
+Run the installer (WoWInstaller.exe) [click here for download live demo](https://galaxyofdrone.com/download/GalaxyOfDrone%20installer.exe)
+.
 
 Wait for the download and extraction to complete.
 
