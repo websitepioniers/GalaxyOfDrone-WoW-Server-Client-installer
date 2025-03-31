@@ -26,3 +26,17 @@ Internet Connection: Required for downloading the client
 
 Contribute 🤝
 Feel free to open issues or submit pull requests to improve the installer!
+
+## Screenshots 📸
+
+### Installer Interface/download progress 
+![WoW Installer](SCREENSHOT1.png)
+
+### automatically Extract files downloaded with install and make shortcut and open the game  
+![Download Progress](SCREENSHOT2.png)
+
+### automatically Extract files downloaded with install and make shortcut and open the game
+![Extracting Files](SCREENSHOT3.png)
+
+### WoW Running  
+![WoW Running](screenshots/wow_running.png)
