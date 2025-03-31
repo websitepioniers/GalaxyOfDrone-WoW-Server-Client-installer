@@ -38,5 +38,3 @@ Feel free to open issues or submit pull requests to improve the installer!
 ### automatically Extract files downloaded with install and make shortcut and open the game
 ![Extracting Files](SCREENSHOT3.png)
 
-### WoW Running  
-![WoW Running](screenshots/wow_running.png)
